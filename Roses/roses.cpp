@@ -21,7 +21,6 @@ struct DOT
 bool calc(double a, double b, double c, DOT &d)
 {
 	double j, n, o, w, z;
-
 	if (c > 60)
 	{
 		d.x = sin(a * 7) * (13 + 5 / (0.2 + pow(b * 4, 4))) - sin(b) * 50;

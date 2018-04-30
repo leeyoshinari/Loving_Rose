@@ -1,7 +1,6 @@
 # Loving_Rose
 
-Transparent display of roses. 
-<br>
+Transparent display of roses. <br>
 ![](https://github.com/leeyoshinari/Loving_Rose/blob/master/image/01.jpg)
 ![](https://github.com/leeyoshinari/Loving_Rose/blob/master/image/02.jpg)
 
@@ -12,4 +11,4 @@ Transparent display of roses.
 
 ## Note
 
-Press `ESC` exit the programm.
+Press `ESC` exit the program.
